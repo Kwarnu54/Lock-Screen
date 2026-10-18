@@ -1,0 +1,9 @@
+Package: com.yourname.lockscreen
+Name: Lock Screen
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Automatically turns the screen off after a set idle time.
+Maintainer: Your Name
+Author: Your Name
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
